@@ -1,3 +1,9 @@
+```Text
+.-.-.-..-.,-.
+| | | || . <
+`-----'`-'`-'
+```
+
 # Documentation Wilfuck 1.0
 
 ## Le concept de base
@@ -17,3 +23,11 @@ Il existe seulement 12 signes disponibles en Wilfuck.
 |   @   | Appeler le syscall correspondant												|
 |   .   | Afficher la valeur ASCII de la cellules										|
 |   ,   | Demander une valeur à l'utilisateur											|
+
+## Contributeurs
+Tout contributeur est le bienvenue :)
+
+Je ne maintiens plus ce projet.
+
+*wilrak0v, btw*:w
+
